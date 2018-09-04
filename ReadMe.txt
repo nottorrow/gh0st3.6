@@ -1,3 +1,1 @@
-~ Uploaded by flAmingw0rm
-
-Great RAT to learn from.
+基于VS2010编译完美运行的gh0st木马
